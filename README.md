@@ -5,7 +5,7 @@
 <h1>Vue vben admin</h1>
 </div>
 
-**中文** | [English](./README.md)
+**中文** | [English](./README.en.md)
 
 ## 简介
 
